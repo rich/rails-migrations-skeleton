@@ -1,0 +1,7 @@
+development:
+  adapter: mysql
+  database: migrations_development
+  username: rich
+  password: rich
+  host: localhost
+  pool: 5
